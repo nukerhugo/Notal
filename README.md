@@ -43,7 +43,7 @@ No installer — just run `notal.exe`.
 You'll need [Rust](https://rustup.rs) installed.
 
 ```bash
-git clone https://github.com/nukerhugo/notal.git
+git clone https://github.com/nukerhugo/Notal.git
 cd notal
 cargo build --release
 ```
